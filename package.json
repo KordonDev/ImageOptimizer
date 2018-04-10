@@ -1,0 +1,10 @@
+{
+  "name": "imageOptimizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arne Maier <Arne_Maier@gmx.de>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
+}
